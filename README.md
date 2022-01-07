@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning **"How to build my own website/blog"**
 - 👀 I'm interested in **"Machine learning topics (NLP, CV, etc.) and iOS/web development"**
 - 👯‍♂️ I'm looking to collaborate on **"Machine learning topics or life"**
+- 💬 Ask me about anythin, I'm happy to help!
 - 📫 How to reach me: **contact@felixdietrich.com**
 
 Feel free to get in touch through any means and checkout my [Website](felixdietrich.com).
 
 
-### GitHub Stats
-<a href="https://github.com/FelixTJDietrich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTJDietrich&hide=&title_color=ffffff&text_color=c9cacc&icon_color=ff375f&bg_color=111111&langs_count=3" />
-</a>
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixTJDietrich&show_icons=true&hide_border=true&theme=dark)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=FelixTJDietrich&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTJDietrich&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,scss,css,php">
+</p>
