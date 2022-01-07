@@ -12,3 +12,10 @@
 - 📫 How to reach me: **contact@felixdietrich.com**
 
 Feel free to get in touch through any means and checkout my [Website](felixdietrich.com).
+
+
+### GitHub Stats
+<a href="https://github.com/FelixTJDietrich">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTJDietrich&hide=&title_color=ffffff&text_color=c9cacc&icon_color=ff375f&bg_color=111111&langs_count=3" />
+</a>
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixTJDietrich&show_icons=true&hide_border=true&theme=dark)
