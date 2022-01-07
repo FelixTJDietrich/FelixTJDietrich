@@ -6,7 +6,7 @@
 [![Mail](https://img.shields.io/badge/Email--x.svg?style=social&logo=Gmail&logoColor=#BB001B&link=mailto:contact@felixdietrich.com)](mailto:contact@felixdietrich.com)
 
 - 🎓 I'm currently studying **M.Sc. Informatics at Technical University of Munich (TUM)**
-- 🌱 I’m currently learning **How to build my own website/blog and how to connect with people**
+- 🌱 I’m currently learning **How to build my own website/blog and how to better connect with people**
 - 👀 I'm interested in **Machine learning topics (NLP, CV, etc.) and iOS/web development**
 - 👯‍♂️ I'm looking to collaborate on **Machine learning topics or life**
 - 💬 Ask me about anything, I'm happy to help!
