@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: **contact@felixdietrich.com**
 
-Feel free to get in touch through any means and checkout my [Website/Blog](felixdietrich.com), a place where I want to show my work.
+Feel free to get in touch through any means and checkout my [Website/Blog](https://felixdietrich.com), a place where I want to show my work.
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTJDietrich&layout=compact&theme=default&langs_count=6&hide=jupyter%20notebook,tex,scss,css,php">
