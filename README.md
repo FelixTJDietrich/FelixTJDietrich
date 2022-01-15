@@ -8,8 +8,8 @@
 - 🎓 I'm currently studying **M.Sc. Informatics at Technical University of Munich (TUM)**
 - 🌱 I’m currently learning **How to build my own website/blog and how to better connect with people**
 - 👀 I'm interested in **Machine learning topics (NLP, CV, etc.) and iOS/web development**
-- 👯‍♂️ I'm looking to collaborate on **Machine learning topics, cool app/platform ideas, or life**
-- 💬 Ask me about anything, I'm happy to help!
+- 👯‍♂️ I'm looking to collaborate on **Machine learning topics, cool app/platform ideas, or life in general**
+- 💬 Ask me about **anything, I'm happy to help!**
 - 📫 How to reach me: **contact@felixdietrich.com**
 
 Feel free to get in touch through any means and checkout my [Website/Blog](https://felixdietrich.com), a place where I want to show my work.
